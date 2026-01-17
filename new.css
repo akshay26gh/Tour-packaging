@@ -4,8 +4,17 @@
 }
 
 .pop:hover{
-color: aliceblue;
+color: rgb(225, 233, 227);
 }
 body{
-    background-color: rgb(19, 146, 171)
+    background-color: rgb(123, 142, 121)
+}
+.photo{
+    position: relative;
+    }
+h1{
+    text-align: center;
+    color: rgb(120, 155, 120);
+    margin-top: -420px;
+    font-family: cursive;
 }
